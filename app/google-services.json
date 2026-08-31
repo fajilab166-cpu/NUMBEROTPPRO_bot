@@ -7,6 +7,25 @@
   "client": [
     {
       "client_info": {
+        "mobilesdk_app_id": "1:7297331422:android:63c752df87444eb054124f",
+        "android_client_info": {
+          "package_name": "com.aistudio.telegramotp.proqx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-rPiCr6UZTPS_3os7DC1Dchuys7pa2Es"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:7297331422:android:972189185f58093254124f",
         "android_client_info": {
           "package_name": "com.example.numberotppro_bot"
