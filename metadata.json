@@ -1,0 +1,6 @@
+{
+  "name": "Telegram OTP Bot Pro",
+  "description": "Automatic High Security Income and Legal Number & OTP Verification Bot with Wallet, Tasks, Referrals, Withdrawals, and Full Admin Panel",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
